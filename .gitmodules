@@ -1,0 +1,3 @@
+[submodule "modules/interfuze-library-1/1.0.0"]
+	path = modules/interfuze-library-1/1.0.0
+	url = https://github.com/timdeboer67/interfuze-library-1.git
