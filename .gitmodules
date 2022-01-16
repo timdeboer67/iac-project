@@ -1,3 +1,6 @@
 [submodule "modules/storage-account-template/1.0.0"]
 	path = modules/storage-account-template/1.0.0
 	url = https://github.com/timdeboer67/storage-account-template.git
+[submodule "modules/vm-template/1.0.0"]
+	path = modules/vm-template/1.0.0
+	url = https://github.com/timdeboer67/vm-template.git
