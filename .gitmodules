@@ -1,4 +1,0 @@
-[submodule "modules/interfuze-library-1/interfuze-library-1"]
-	path = modules/interfuze-library-1/1.0.0
-	url = https://github.com/timdeboer67/interfuze-library-1.git
-	branch = Releases/v1.0.0
